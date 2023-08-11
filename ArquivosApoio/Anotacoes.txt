@@ -1,0 +1,2 @@
+* Quando for distribuir um software para um cliente(comercializa-lo), na máquina local terá que ser instalado a Java Virtual Machine (JVM) .
+
